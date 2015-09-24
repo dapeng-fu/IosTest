@@ -1,0 +1,11 @@
+language: objective-c
+
+osx_image: xcode6.4
+
+xcode_project: HelloWorld
+
+xcode_scheme: HelloWorld
+
+xcode_sdk: iphonesimulator7.0
+
+
