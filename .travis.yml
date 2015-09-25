@@ -2,7 +2,7 @@ language: objective-c
 
 osx_image: xcode6.4
 
-xcode_project: HelloWorld/HelloWorld.xcodeproj
+xcode_workspace: HelloWorld/HelloWorld.xcworkspace
 
 xcode_scheme: HelloWorld
 
