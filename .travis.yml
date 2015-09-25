@@ -8,4 +8,6 @@ xcode_scheme: HelloWorld
 
 xcode_sdk: iphoneos8.4
 
+podfile: HelloWorld/Podfile
+
 
