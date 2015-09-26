@@ -10,4 +10,4 @@ xcode_sdk: iphoneos8.4
 
 podfile: HelloWorld/Podfile
 
-configuration: build
+configuration: Release
